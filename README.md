@@ -12,5 +12,8 @@ Maltego CE
 Malformity 
 Cuckoo Sandbox
 CIF
+Something Hadoopish or other big data analytics. 
 
-If you'd like to see something included send a request to cshaffer [at] g-m-a-i-l. com
+If you'd like to see something included, or would like to assist, send a request to cshaffer [at] g-m-a-i-l. com
+
+This will be meant for a mobile deployment. Obviously if you are going to do a deploymnet of system you want to build it out for such. I will include sizing recommendations where possible. 
