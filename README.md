@@ -13,4 +13,4 @@ Malformity
 Cuckoo Sandbox
 CIF
 
-If you'd like to see something included send a request to cshaffer [at] (Gmail) . com
+If you'd like to see something included send a request to cshaffer [at] g-m-a-i-l. com
