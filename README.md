@@ -1,4 +1,4 @@
-satis
+SATIS
 =====
 
 Repo for the Security Analyst Threat Intelligence System Virtual Image (release TBD but shooting for July 1st 2013). Students of the Advanced Threat Intelligence course  (http://www.trainace.com/courses/threat-intelligence/) will recieve a custom version to use in the class. That version will be functional for all of the items covered in the class, with the exceptions of necessary APIs or licenses, so they can put the VM to work as soon as they are back on the job and have proper permission!
