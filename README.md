@@ -17,3 +17,5 @@ Something Hadoopish or other big data analytics.
 If you'd like to see something included, or would like to assist, send a request to cshaffer [at] g-m-a-i-l. com
 
 This will be meant for a mobile deployment. Obviously if you are going to do a deployment of such system, especially for an enterprise,  you want to build it out for such. I will include sizing recommendations where possible. 
+
+Test
