@@ -12,7 +12,7 @@ Maltego CE
 Malformity 
 Cuckoo Sandbox
 CIF
-Something Hadoopish or other big data analytics. 
+Binary PIG
 
 If you'd like to see something included, or would like to assist, send a request to cshaffer [at] g-m-a-i-l. com
 
